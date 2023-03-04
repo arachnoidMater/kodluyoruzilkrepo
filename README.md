@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Lorem Picsum Gorsel](https://avatars.mds.yandex.net/get-images-cbir/9431584/5KIM5JqozetgD_h8zSAh-g836/ocr)
+![Lorem Picsum Gorsel](C:\Users\KÜBRA AYKAN\Desktop\2023-02-23_22-29-56.png)
 
 
 ## Installation
